@@ -1,0 +1,3 @@
+# One public Instagram username per line (no @ needed)
+# example_club
+# another_account
